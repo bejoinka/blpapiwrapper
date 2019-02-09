@@ -5,7 +5,6 @@ Written by Alexandre Almosni   alexandre.almosni@gmail.com
 Released under Apache 2.0 license. More info at http://www.apache.org/licenses/LICENSE-2.0
 """
 
-from __future__ import print_function
 from abc import ABCMeta, abstractmethod
 import blpapi
 import datetime
